@@ -32,6 +32,7 @@
     font-family: 'Li Ador Noirrit';
     font-style: normal;
     font weight: 300;
+    font-display: swap;
     src: url('../FONT/LiAdorNoirrit.eot');
     src:local('')
         url('../FONT/LiAdorNoirrit.eot?#iefix') format('embedded-opentype'),
@@ -55,7 +56,7 @@
          url('../fonts/poppins-v20-latin-300.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/poppins-v20-latin-300.svg#Poppins') format('svg'); /* Legacy iOS */
   }
-  /* poppins-regular - latin 
+  /* poppins-regular - latin*/ 
   @font-face {
     font-family: 'Poppins';
     font-style: normal;
@@ -68,7 +69,6 @@
          url('../fonts/poppins-v20-latin-regular.ttf') format('truetype'), /* Safari, Android, iOS */
          url('../fonts/poppins-v20-latin-regular.svg#Poppins') format('svg'); /* Legacy iOS 
   }
-*/
   /* poppins-italic - latin */
   @font-face {
     font-family: 'Poppins';
